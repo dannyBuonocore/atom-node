@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-node:toggle"
+    "atom-workspace": "atom-node:run"
   },
   "repository": "https://github.com/atom/atom-node",
   "license": "MIT",
